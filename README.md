@@ -9,7 +9,7 @@ Clone the repo
 git clone https://github.com/dibenso/rails-jwt-example
 ```
 
-Install gem dependencies
+Install gem dependencies for email validation, password_hashing, and JWT
 ```sh
 bundle install
 ```
